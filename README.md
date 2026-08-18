@@ -8,17 +8,17 @@
 
 ## 🚀 Sobre Mim
 
-💻 Apaixonado por computadores desde criança.
+💻 Apaixonado por computadores e tecnologia desde criança.
 
-🎂 Tenho 15 anos e vou fazer 16 em agosto.
+🎂 Tenho **16 anos**.
 
-📚 Já participei do ProJovem.
+📚 Já participei do **ProJovem**.
 
-🖥️ Possuo curso de Informática Básica.
+🖥️ Possuo curso de **Informática Básica**.
 
-🐍 Atualmente focado em aprender Python.
+🐍 Atualmente estou focado em aprender **Python**.
 
-🎯 Meu objetivo é evoluir como desenvolvedor e criar projetos cada vez maiores.
+🎯 Meu objetivo é evoluir cada vez mais como desenvolvedor e criar projetos maiores e mais completos.
 
 ---
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,vscode,git,github" />
@@ -56,11 +56,11 @@
 
 ---
 
-## 🌎 Contato
+## 🌎 Onde me encontrar
 
 <p align="center">
   <a href="https://github.com/gustavo15gsantos-cell">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
   <a href="https://instagram.com/eu_santoss.15">
@@ -72,4 +72,5 @@
 
 <p align="center">
   ⭐ Obrigado por visitar meu perfil!
+</p>
 </p>
